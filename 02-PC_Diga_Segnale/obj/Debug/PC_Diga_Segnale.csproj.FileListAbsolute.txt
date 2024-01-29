@@ -1,0 +1,10 @@
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_Segnale\bin\Debug\PC_Diga_Segnale.exe.config
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_Segnale\bin\Debug\PC_Diga_Segnale.exe
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_Segnale\bin\Debug\PC_Diga_Segnale.pdb
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_Segnale\obj\Debug\PC_Diga_Segnale.csprojAssemblyReference.cache
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_Segnale\obj\Debug\PC_Diga_Segnale.frm_pcDigaSegnale.resources
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_Segnale\obj\Debug\PC_Diga_Segnale.Properties.Resources.resources
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_Segnale\obj\Debug\PC_Diga_Segnale.csproj.GenerateResource.cache
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_Segnale\obj\Debug\PC_Diga_Segnale.csproj.CoreCompileInputs.cache
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_Segnale\obj\Debug\PC_Diga_Segnale.exe
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_Segnale\obj\Debug\PC_Diga_Segnale.pdb

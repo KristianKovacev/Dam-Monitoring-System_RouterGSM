@@ -1,0 +1,10 @@
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_KeepAlive\bin\Debug\PC_Diga_KeepAlive.exe.config
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_KeepAlive\bin\Debug\PC_Diga_KeepAlive.exe
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_KeepAlive\bin\Debug\PC_Diga_KeepAlive.pdb
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_KeepAlive\obj\Debug\PC_Diga_KeepAlive.csprojAssemblyReference.cache
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_KeepAlive\obj\Debug\PC_Diga_KeepAlive.frm_pcDigaKeepAlive.resources
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_KeepAlive\obj\Debug\PC_Diga_KeepAlive.Properties.Resources.resources
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_KeepAlive\obj\Debug\PC_Diga_KeepAlive.csproj.GenerateResource.cache
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_KeepAlive\obj\Debug\PC_Diga_KeepAlive.csproj.CoreCompileInputs.cache
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_KeepAlive\obj\Debug\PC_Diga_KeepAlive.exe
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\02-PC_Diga_KeepAlive\obj\Debug\PC_Diga_KeepAlive.pdb

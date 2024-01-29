@@ -1,0 +1,10 @@
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale\bin\Debug\PC_Centrale.exe.config
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale\bin\Debug\PC_Centrale.exe
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale\bin\Debug\PC_Centrale.pdb
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale\obj\Debug\PC_Centrale.csprojAssemblyReference.cache
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale\obj\Debug\PC_Centrale.frm_pcCentrale.resources
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale\obj\Debug\PC_Centrale.Properties.Resources.resources
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale\obj\Debug\PC_Centrale.csproj.GenerateResource.cache
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale\obj\Debug\PC_Centrale.csproj.CoreCompileInputs.cache
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale\obj\Debug\PC_Centrale.exe
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale\obj\Debug\PC_Centrale.pdb

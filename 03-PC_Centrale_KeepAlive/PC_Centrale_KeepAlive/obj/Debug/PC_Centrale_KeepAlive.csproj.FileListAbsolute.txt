@@ -1,0 +1,10 @@
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale_KeepAlive\PC_Centrale_KeepAlive\bin\Debug\PC_Centrale_KeepAlive.exe.config
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale_KeepAlive\PC_Centrale_KeepAlive\bin\Debug\PC_Centrale_KeepAlive.exe
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale_KeepAlive\PC_Centrale_KeepAlive\bin\Debug\PC_Centrale_KeepAlive.pdb
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale_KeepAlive\PC_Centrale_KeepAlive\obj\Debug\PC_Centrale_KeepAlive.csprojAssemblyReference.cache
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale_KeepAlive\PC_Centrale_KeepAlive\obj\Debug\PC_Centrale_KeepAlive.frm_PcCentrale_KeepAlive.resources
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale_KeepAlive\PC_Centrale_KeepAlive\obj\Debug\PC_Centrale_KeepAlive.Properties.Resources.resources
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale_KeepAlive\PC_Centrale_KeepAlive\obj\Debug\PC_Centrale_KeepAlive.csproj.GenerateResource.cache
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale_KeepAlive\PC_Centrale_KeepAlive\obj\Debug\PC_Centrale_KeepAlive.csproj.CoreCompileInputs.cache
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale_KeepAlive\PC_Centrale_KeepAlive\obj\Debug\PC_Centrale_KeepAlive.exe
+C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\03-PC_Centrale_KeepAlive\PC_Centrale_KeepAlive\obj\Debug\PC_Centrale_KeepAlive.pdb

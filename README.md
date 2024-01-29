@@ -42,65 +42,19 @@ Non usiamo lo stato di no allarme per evitare di mandare informazioni inutili. N
 
 ### PC diga
 
-![01-Schema_PC_Diga](C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\01-Schema_PC_Diga.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![01-Schema_PC_Diga](/01-Schema_PC_Diga.png)
 
 ### PC centrale
 
-![01-Schema_PC_Centrale](C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\01-Schema_PC_Centrale.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![01-Schema_PC_Centrale](/01-Schema_PC_Centrale.png)
 
 ## Schema fisico
 
-## <img src="C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\01-SchemaFisico.png"  />
-
-
+![01-SchemaFisico](/01-SchemaFisico.png)
 
 ## Struttura database
 
-![01-StrutturaDatabase](C:\Scuola\5°\SistemiReti\03-Progetti\00-Sistema_monitoraggio_dighe\01-StrutturaDatabase.png)
-
-
+![01-StrutturaDatabase](/01-StrutturaDatabase.png)
 
 
 

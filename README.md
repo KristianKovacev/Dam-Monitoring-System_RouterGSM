@@ -42,19 +42,19 @@ Non usiamo lo stato di no allarme per evitare di mandare informazioni inutili. N
 
 ### PC diga
 
-![01-Schema_PC_Diga](/01-Schema_PC_Diga.png)
+![01-Schema_PC_Diga](/img/01-Schema_PC_Diga.png)
 
 ### PC centrale
 
-![01-Schema_PC_Centrale](/01-Schema_PC_Centrale.png)
+![01-Schema_PC_Centrale](/img/01-Schema_PC_Centrale.png)
 
 ## Schema fisico
 
-![01-SchemaFisico](/01-SchemaFisico.png)
+![01-SchemaFisico](/img/01-SchemaFisico.png)
 
 ## Struttura database
 
-![01-StrutturaDatabase](/01-StrutturaDatabase.png)
+![01-StrutturaDatabase](/img/01-StrutturaDatabase.png)
 
 
 
@@ -230,7 +230,7 @@ Ogni programma ha un'interfaccia destinata sia all'utente finale che al tecnico 
 
 All'avvio di questo programma questa sarà la prima interfaccia che ci verrà proposta:
 
-<img src="C:\Users\kri3k\AppData\Roaming\Typora\typora-user-images\image-20210218004223586.png" alt="image-20210218004223586" style="zoom:80%;" />
+![PC_Diga](/img/pcdiga-2.png)
 
 Come prima cosa si dovrà inserire il codice identificativo della diga, che è di due caratteri (es: "01"), poi il numero di telefono del pc centrale. Una volta inseriti questi dati bisognerà premere il bottone "Inserisci dati". 
 
@@ -238,7 +238,7 @@ Nella seconda parte di questa tab bisognerà selezionare nella combobox la porta
 
 Successivamente ci si dovrà spostare sulla tab "Sinottico":
 
-<img src="C:\Users\kri3k\AppData\Roaming\Typora\typora-user-images\image-20210218004617181.png" alt="image-20210218004617181" style="zoom:80%;" />
+![PC_Diga2](/img/pcdiga-3.png)
 
 Dato che nella fase di realizzazione di questo progetto non ho avuto a disposizione l'arduino per la ricezione dei segnali l'ho dovuto simulare con due bottoni. Premendo uno dei due tasti manderemo il messaggio al router GSM del PC centrale. 
 
@@ -250,33 +250,33 @@ Le sezioni "Gestione diga" e "Gestione router" vanno compilate come è stato spi
 
 Nella sezione "Diagnostica" verrà inserito,in millisecondi, ogni quanto mandare il messaggio di keep-alive, una volta inserito il tempo bisogna premere il tasto "Aggiorna intervallo". Questo dato è molto importante, infatti, dovrà stabilirsi uno standard per tutte le dighe, quello scelto da me è 60 minuti, un tempo errato andrà a falsare il controllo che avviene nel lato PC centrale. Questo sezione è stata progettata per permettere al tecnico di "debuggare" il programma senza mettere mano al codice.
 
-<img src="C:\Users\kri3k\AppData\Roaming\Typora\typora-user-images\image-20210218005123094.png" alt="image-20210218005123094" style="zoom:80%;" />
+![PC_Diga2-keepalive](/img/pcdiga-keepalive.png)
 
 Nella tab "Keep-alive" ci sono due semplici bottoni per far partire e fermare il timer:
 
-<img src="C:\Users\kri3k\AppData\Roaming\Typora\typora-user-images\image-20210218005632050.png" alt="image-20210218005632050" style="zoom:80%;" />
+![PC_Diga2-keepalive2](/img/pcdiga-keepalive2.png)
 
 ### PC centrale
 
 Qui molto semplicemente bisogna scegliere la porta seriale del router GSM e aprirla
 
-<img src="C:\Users\kri3k\AppData\Roaming\Typora\typora-user-images\image-20210218010035317.png" alt="image-20210218010035317" style="zoom:80%;" />
+![PC_centrale1](/img/pc-centrale1.png)
 
 Nella tab "Sinottico" avremo una tabella che verrà aggiornata ogni volta che che una diga avrà un segnale di allarme o di preallarme.
 
-<img src="C:\Users\kri3k\AppData\Roaming\Typora\typora-user-images\image-20210218010141901.png" alt="image-20210218010141901" style="zoom:80%;" />
+![PC_centrale2](/img/pc-centrale2.png)
 
 ### PC centrale - keep alive
 
 In questa sezione andrà inserito in minuti ogni quanto si andrà a controllare il funzionamento del keep alive. Questo dato va' inserito in base allo "standard" deciso per le dighe. Nel mio caso il keep alive verrà mandato ogni 60 minuti, mentre il controllo verrà fatto ogni 65 minuti.
 
-<img src="C:\Users\kri3k\AppData\Roaming\Typora\typora-user-images\image-20210218010309904.png" alt="image-20210218010309904" style="zoom:80%;" />
+![PC_centrale3](/img/pc-centrale3.png)
 
 Nella tab "Keep alive" dovrò far partire il timer attraverso il tasto "Start" e potrò stopparlo in caso di necessità.
 
 Sotto ho una tabella che verrà aggiornata nel momento in cui un PC diga smetterà di mandare regolarmente il keep alive.
 
-<img src="C:\Users\kri3k\AppData\Roaming\Typora\typora-user-images\image-20210218010658405.png" alt="image-20210218010658405" style="zoom:80%;" />
+![PC_centrale4](/img/pc-centrale4.png)
 
 ## Autore
 
